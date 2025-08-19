@@ -38,16 +38,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/Official-GK/Official-GK/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 💡 Fun Zone
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
