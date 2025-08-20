@@ -10,7 +10,6 @@
 - 💻 Passionate about **Full-Stack Development**
 - 🤖 Exploring **AI, ML, and Automation**
 - 🏆 Love solving **DSA & Problem-Solving challenges**
-- 🌍 Currently working on **Kiaros - AI Tutor Platform**
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 ---
