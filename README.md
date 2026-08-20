@@ -42,15 +42,6 @@ I am a **third-year university student** and a **Senior Developer at 8 Bits**. I
 | **RewardSync** | `LATENCY // SUB-SECOND` | Real-time distributed loyalty architecture. Implemented Redis pub/sub and WebSockets to guarantee atomic POS transactions and instant client feedback. |
 | **IoT Smart Water Tank** | `CALIBRATED // ACTIVE` | Bridged physical hardware with digital monitors using C++ on ESP8266 microcontrollers to process ultrasonic data and automate relay pump states. |
 
----
-
-### 📊 Engineering Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Official-GK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=60A5FA&icon_color=60A5FA&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Official-GK&theme=tokyonight&hide_border=true&background=050505&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" width="48%" />
-</div>
-
 <br>
 
 <div align="center">
