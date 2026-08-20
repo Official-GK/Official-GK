@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://gauravdevloper.netlify.app"><img src="https://img.shields.io/badge/View_Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://gauravdevloper.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gaurav-kulkarni-37b021216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
@@ -47,7 +47,7 @@ I am a **third-year university student** and a **Senior Developer at 8 Bits**. I
 ### 📊 Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Official-GK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=60A5FA&icon_color=60A5FA" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Official-GK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=60A5FA&icon_color=60A5FA&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Official-GK&theme=tokyonight&hide_border=true&background=050505&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" width="48%" />
 </div>
 
