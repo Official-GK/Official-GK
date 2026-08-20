@@ -37,7 +37,7 @@ I am a **third-year university student** and a **Senior Developer at 8 Bits**. I
 
 | Project | Telemetry / Status | Architecture Profile |
 | :--- | :--- | :--- |
-| **KAMBALA RMS** | `ERR_RESOLVED // CLAMP ACTIVE` | Engineered a C++/FastAPI execution layer routing sub-millisecond market data via Noren API WebSockets. Integrated defensive clamps to prevent automated margin wipeouts. |
+| **Trading RMS** | `ERR_RESOLVED // CLAMP ACTIVE` | Engineered a C++/FastAPI execution layer routing sub-millisecond market data via Noren API WebSockets. Integrated defensive clamps to prevent automated margin wipeouts. |
 | **Climate Risk Engine** | `PIPELINE // SECURED` | Automated satellite radar (SAR) processing pipeline using PyTorch and GeoPandas for real-time flood perimeter detection and AI classification on AWS. |
 | **RewardSync** | `LATENCY // SUB-SECOND` | Real-time distributed loyalty architecture. Implemented Redis pub/sub and WebSockets to guarantee atomic POS transactions and instant client feedback. |
 | **IoT Smart Water Tank** | `CALIBRATED // ACTIVE` | Bridged physical hardware with digital monitors using C++ on ESP8266 microcontrollers to process ultrasonic data and automate relay pump states. |
