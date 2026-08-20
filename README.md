@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Official-GK">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Senior+Developer+%40+8+Bits;Backend+Engineer+%7C+Systems+Architect;Building+Fault-Tolerant+Architectures;Scaling+High-Frequency+Execution" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/View_Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-kulkarni-37b021216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
@@ -37,7 +37,7 @@ I am a **third-year university student** and a **Senior Developer at 8 Bits**. I
 
 | Project | Telemetry / Status | Architecture Profile |
 | :--- | :--- | :--- |
-| **Trading RMS** | `ERR_RESOLVED // CLAMP ACTIVE` | Engineered a C++/FastAPI execution layer routing sub-millisecond market data via Noren API WebSockets. Integrated defensive clamps to prevent automated margin wipeouts. |
+| **KAMBALA RMS** | `ERR_RESOLVED // CLAMP ACTIVE` | Engineered a C++/FastAPI execution layer routing sub-millisecond market data via Noren API WebSockets. Integrated defensive clamps to prevent automated margin wipeouts. |
 | **Climate Risk Engine** | `PIPELINE // SECURED` | Automated satellite radar (SAR) processing pipeline using PyTorch and GeoPandas for real-time flood perimeter detection and AI classification on AWS. |
 | **RewardSync** | `LATENCY // SUB-SECOND` | Real-time distributed loyalty architecture. Implemented Redis pub/sub and WebSockets to guarantee atomic POS transactions and instant client feedback. |
 | **IoT Smart Water Tank** | `CALIBRATED // ACTIVE` | Bridged physical hardware with digital monitors using C++ on ESP8266 microcontrollers to process ultrasonic data and automate relay pump states. |
@@ -47,8 +47,8 @@ I am a **third-year university student** and a **Senior Developer at 8 Bits**. I
 ### 📊 Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=60A5FA&icon_color=60A5FA" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=050505&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Official-GK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=60A5FA&icon_color=60A5FA" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Official-GK&theme=tokyonight&hide_border=true&background=050505&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
